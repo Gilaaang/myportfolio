@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: gray;
+}
+
+#project {
+  background-color: gray;
+}
+
+footer {
+  background-color: gray;
+  padding-bottom: 3%;
+  text-align: center;
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
