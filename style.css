@@ -1,6 +1,15 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: gray;
+  background-color: #880000;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  font-weight: normal;
+}
+
+.jumbotron p {
+  color: #ffffff;
 }
 
 #project {
